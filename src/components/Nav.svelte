@@ -9,7 +9,7 @@
 				<a href="/">Pokedex</a>
 			</div>
 
-			<nav class="w-1/4">
+			<nav>
 				<ul class="flex gap-2 underline">
 					<li><a href="/">Home</a></li>
 					<li><a href="/about">About</a></li>
